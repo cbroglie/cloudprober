@@ -1,0 +1,29 @@
+internal/tracing/proto/config.pb.go
+  s_c34292c05585d9::t_67cb9f79810f7c 250-253,269,458
+probes/http/http.go
+  s_9e2700344a6f71::t_704249647aa33c 210-212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "26b73f4a6c08924fc21685532f3ccebe937f25ff",
+  "prompts": {},
+  "sessions": {
+    "s_9e2700344a6f71": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_08e394fc6ffenoMevslc7wvlhi",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Christopher Broglie <cbroglie@cloudflare.com>"
+    },
+    "s_c34292c05585d9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_08e78f6bdffe7D2npNBbCnNvOr",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Christopher Broglie <cbroglie@cloudflare.com>"
+    }
+  }
+}
