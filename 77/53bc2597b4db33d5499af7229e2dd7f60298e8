@@ -1,0 +1,21 @@
+go.mod
+  s_d9739cbc22b19a::t_fd854be6356581 26-38,40,46-47,81,83,90,107-114,116,118,120-121,128,130-131,133-134
+go.sum
+  s_d9739cbc22b19a::t_54b3be59b6f1d9 35-36,112-113,121-122,169-170,229-230,241-284,291-292,295-296,303-304,311-312,328-329,332-333,341-342,357-360,366-367,377-378
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7753bc2597b4db33d5499af7229e2dd7f60298e8",
+  "prompts": {},
+  "sessions": {
+    "s_d9739cbc22b19a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f87b91620ffep21O8uRgfKAEFs",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Christopher Broglie <cbroglie@cloudflare.com>"
+    }
+  }
+}
