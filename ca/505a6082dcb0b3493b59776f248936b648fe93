@@ -1,0 +1,19 @@
+go.mod
+  s_888ed05f3e42f3::t_e5191270174d73 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ca505a6082dcb0b3493b59776f248936b648fe93",
+  "prompts": {},
+  "sessions": {
+    "s_888ed05f3e42f3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f9047ac39ffeIZFeMLoOGAq09F",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Christopher Broglie <cbroglie@cloudflare.com>"
+    }
+  }
+}
